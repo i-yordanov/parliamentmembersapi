@@ -2,11 +2,12 @@
 Crowl and serve data of parliament member through a django_restframework APIs.
 
 # How to crowl the data:
-command : python manage.py crowl
+ **command**: python manage.py crowl
+
 heads up: data is already saved in a sqlite database 
 
 # How to start api service:
-command : python manage.py runserver
+**command** : python manage.py runserver
 
 # ENDPOINTS
 Access API ENDPOINTS documentation through http://127.0.0.1:8000/redoc/
