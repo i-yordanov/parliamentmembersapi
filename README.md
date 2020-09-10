@@ -1,4 +1,4 @@
-#  parliamentmembersapi
+#  Parliament Members API
 Crowl and serve data of parliament member through a django_restframework APIs.
 
 # How to crowl the data:
