@@ -1,9 +1,7 @@
 #  Parliament Members API
 Crawl and serve data of parliament member through a django_restframework APIs.
 
-
-# Package Requirements can be found in Requirements.txt:
-
+#Package Requirements can be found in Requirements.txt:
 
 # How to crawl the data:
  **command**: python manage.py crawl
