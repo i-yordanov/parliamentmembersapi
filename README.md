@@ -1,8 +1,8 @@
 #  Parliament Members API
-Crowl and serve data of parliament member through a django_restframework APIs.
+Crawl and serve data of parliament member through a django_restframework APIs.
 
-# How to crowl the data:
- **command**: python manage.py crowl
+# How to crawl the data:
+ **command**: python manage.py crawl
 
 heads up: data is already saved in a sqlite database 
 
@@ -71,7 +71,7 @@ Following data was parsed for all 240 parliament members.
 # JSON Schema
 
 
-Crowled data was validated using pydantic a json schema generator.
+Crawled data was validated using pydantic a json schema generator.
 
 The validation takes place in spiders/schemavalidator.py
 
